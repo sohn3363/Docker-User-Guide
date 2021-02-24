@@ -5,10 +5,3 @@
 ## 1. Make Container
 ### 1) Find docker Image
    > docker search pytorch
-
-'''
-import tensorflow
-
-for i in range 8:
-   print('hello')
-'''
