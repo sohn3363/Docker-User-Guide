@@ -16,5 +16,5 @@
    > > -p : (Connection) connect local port to docker port
    > > 
    > > --gpus all: allocate all gpus 
-#### 5) Contatiner execution
+### 5) Contatiner execution
    > docker exec -it <container_name> bash
