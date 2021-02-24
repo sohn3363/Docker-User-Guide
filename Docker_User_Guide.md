@@ -2,6 +2,7 @@
 - 2021.02.24 Updated
 - source from: (https://leesungjae-git.github.io/).
 
+---
 ### 1. Make Container
 #### 1) Find docker image
    > docker search pytorch
@@ -18,7 +19,8 @@
    > > --gpus all: allocate all gpus 
 #### 5) Contatiner execution
    > docker exec -it <container_name> bash
-   
+
+---   
 ### 2. Jupyter Notebook in Docker
 #### 1) Jupyter Notebook installation
    > conda install jupyter
